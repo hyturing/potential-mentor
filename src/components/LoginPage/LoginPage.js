@@ -84,11 +84,11 @@ export default function LoginPage() {
               >
                 <span className="absolute left-0 inset-y-0 flex items-center pl-3">
                   <LockClosedIcon
-                    className="h-5 w-5 text-blue-500 group-hover:text-blue-400"
+                    className="h-5 w-5 text-white group-hover:text-blue-500"
                     aria-hidden="true"
                   />
                 </span>
-                Sign in
+                Log In
               </button>
             </div>
           </form>
